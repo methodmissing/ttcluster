@@ -1,8 +1,7 @@
 #--
 # lib/ttcluster/runner.rb
 #++
-
-
+$:.unshift "."
 require 'optparse'
 require 'etc'
 require 'ttcluster/commands'
