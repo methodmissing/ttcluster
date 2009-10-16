@@ -8,7 +8,7 @@ require 'etc'
 require 'ttcluster/commands'
 require 'ttcluster/constants'
 require 'ttcluster/version'
-
+require 'ttcluster/extensions'
 
 module TTCluster
 
