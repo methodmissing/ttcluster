@@ -21,8 +21,8 @@ module TTCluster
   SERVER_KEY = "server".freeze
   MASTER_KEY = "master".freeze
 
-  DEFAULT_DB_PARAMS  = "#bnum=2000000#opts=ld".freeze
-  DEFAULT_ULOG_LIMIT = "20m".freeze
+  DEFAULT_DB_PARAMS  = "#bnum=30000000#opts=ld".freeze
+  DEFAULT_ULOG_LIMIT = "60m".freeze
   DEFAULT_ULOG_ASYNC = false
 
   MSG_SERVER_RUNNING         = "Server is running (pid=%s)".freeze
