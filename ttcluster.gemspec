@@ -45,6 +45,7 @@ lib/ttcluster/base_command.rb
 lib/ttcluster/commands.rb
 lib/ttcluster/config_command.rb
 lib/ttcluster/constants.rb
+lib/ttcluster/extensions.rb
 lib/ttcluster/hup_command.rb
 lib/ttcluster/restart_command.rb
 lib/ttcluster/runner.rb
